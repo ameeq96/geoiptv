@@ -1,6 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://geoiptv.store/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://geoiptv.store/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://geoiptv.store/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://geoiptv.store/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://geoiptv.store/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://geoiptv.store/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://geoiptv.store/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geoiptv.store/ru/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://geoiptv.store/ur/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://geoiptv.store/ar/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://geoiptv.store/hi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geoiptv.store/"/>
+  </url>
+  <url>
+    <loc>https://geoiptv.store/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://geoiptv.store/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://geoiptv.store/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://geoiptv.store/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://geoiptv.store/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://geoiptv.store/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://geoiptv.store/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geoiptv.store/ru/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://geoiptv.store/ur/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://geoiptv.store/ar/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://geoiptv.store/hi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geoiptv.store/"/>
+  </url>
+  <url>
+    <loc>https://geoiptv.store/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://geoiptv.store/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://geoiptv.store/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://geoiptv.store/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://geoiptv.store/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://geoiptv.store/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://geoiptv.store/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geoiptv.store/ru/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://geoiptv.store/ur/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://geoiptv.store/ar/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://geoiptv.store/hi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geoiptv.store/"/>
+  </url>
+  <url>
+    <loc>https://geoiptv.store/it/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://geoiptv.store/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://geoiptv.store/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://geoiptv.store/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://geoiptv.store/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://geoiptv.store/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://geoiptv.store/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geoiptv.store/ru/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://geoiptv.store/ur/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://geoiptv.store/ar/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://geoiptv.store/hi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geoiptv.store/"/>
+  </url>
+  <url>
+    <loc>https://geoiptv.store/nl/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://geoiptv.store/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://geoiptv.store/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://geoiptv.store/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://geoiptv.store/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://geoiptv.store/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://geoiptv.store/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geoiptv.store/ru/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://geoiptv.store/ur/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://geoiptv.store/ar/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://geoiptv.store/hi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geoiptv.store/"/>
+  </url>
+  <url>
+    <loc>https://geoiptv.store/pt/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://geoiptv.store/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://geoiptv.store/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://geoiptv.store/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://geoiptv.store/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://geoiptv.store/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://geoiptv.store/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geoiptv.store/ru/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://geoiptv.store/ur/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://geoiptv.store/ar/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://geoiptv.store/hi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geoiptv.store/"/>
+  </url>
+  <url>
+    <loc>https://geoiptv.store/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://geoiptv.store/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://geoiptv.store/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://geoiptv.store/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://geoiptv.store/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://geoiptv.store/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://geoiptv.store/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geoiptv.store/ru/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://geoiptv.store/ur/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://geoiptv.store/ar/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://geoiptv.store/hi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geoiptv.store/"/>
+  </url>
+  <url>
+    <loc>https://geoiptv.store/ur/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://geoiptv.store/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://geoiptv.store/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://geoiptv.store/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://geoiptv.store/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://geoiptv.store/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://geoiptv.store/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geoiptv.store/ru/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://geoiptv.store/ur/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://geoiptv.store/ar/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://geoiptv.store/hi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geoiptv.store/"/>
+  </url>
+  <url>
+    <loc>https://geoiptv.store/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://geoiptv.store/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://geoiptv.store/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://geoiptv.store/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://geoiptv.store/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://geoiptv.store/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://geoiptv.store/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geoiptv.store/ru/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://geoiptv.store/ur/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://geoiptv.store/ar/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://geoiptv.store/hi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geoiptv.store/"/>
+  </url>
+  <url>
+    <loc>https://geoiptv.store/hi/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://geoiptv.store/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://geoiptv.store/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://geoiptv.store/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://geoiptv.store/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://geoiptv.store/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://geoiptv.store/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://geoiptv.store/ru/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://geoiptv.store/ur/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://geoiptv.store/ar/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://geoiptv.store/hi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://geoiptv.store/"/>
   </url>
 </urlset>
