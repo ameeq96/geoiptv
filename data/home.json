@@ -67,11 +67,11 @@
   "metadata": {
     "en": {
       "title": "Geo IPTV Plans | Compare GEO World IPTV Options",
-      "description": "Compare GEO World IPTV plans for 1, 3, 6 or 12 months. Understand total costs, connection limits and device checks before choosing your Geo IPTV setup.",
+      "description": "Compare GEO World IPTV plans with one simultaneous connection. Review full-term prices and use a same-device checklist to prepare your Geo IPTV setup.",
       "ogTitle": "Geo IPTV Plans | Compare GEO World IPTV Options",
-      "ogDescription": "Look beyond the headline price. Compare plan lengths, check connection limits and confirm your device and viewing requirements before choosing.",
+      "ogDescription": "Compare GEO World IPTV plans with one simultaneous connection. Review full-term prices and use a same-device checklist to prepare your Geo IPTV setup.",
       "twitterTitle": "Geo IPTV Plans | Compare GEO World IPTV Options",
-      "twitterDescription": "A practical guide to comparing GEO World IPTV plans, from the full term cost to the questions worth asking before checkout.",
+      "twitterDescription": "Compare GEO World IPTV plans with one simultaneous connection. Review full-term prices and use a same-device checklist to prepare your Geo IPTV setup.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -98,7 +98,7 @@
             "@id": "https://geoiptv.store/#webpage",
             "url": "https://geoiptv.store/",
             "name": "Geo IPTV Plans | Compare GEO World IPTV Options",
-            "description": "Compare GEO World IPTV plan lengths, total costs, connection limits and device requirements before choosing.",
+            "description": "Compare GEO World IPTV plans with one simultaneous connection. Review full-term prices and use a same-device checklist to prepare your Geo IPTV setup.",
             "isPartOf": {
               "@id": "https://geoiptv.store/#website"
             },
@@ -109,11 +109,11 @@
     },
     "es": {
       "title": "Planes de Geo IPTV | Compara las opciones de GEO World IPTV",
-      "description": "Compara los planes de GEO World IPTV de 1, 3, 6 o 12 meses. Entiende los costes totales, los límites de conexiones y las comprobaciones del dispositivo antes de elegir tu configuración de Geo IPTV.",
+      "description": "Compara planes GEO World IPTV con una conexión simultánea. Revisa el coste total y usa una lista de comprobación para tu dispositivo antes de elegir.",
       "ogTitle": "Planes de Geo IPTV | Compara las opciones de GEO World IPTV",
-      "ogDescription": "Mira más allá del precio destacado. Compara las duraciones de los planes, comprueba los límites de conexiones y confirma tu dispositivo y tus necesidades de contenido antes de elegir.",
+      "ogDescription": "Compara planes GEO World IPTV con una conexión simultánea. Revisa el coste total y usa una lista de comprobación para tu dispositivo antes de elegir.",
       "twitterTitle": "Planes de Geo IPTV | Compara las opciones de GEO World IPTV",
-      "twitterDescription": "Una guía práctica para comparar los planes de GEO World IPTV, desde el coste de todo el periodo hasta las preguntas que conviene hacer antes de pagar.",
+      "twitterDescription": "Compara planes GEO World IPTV con una conexión simultánea. Revisa el coste total y usa una lista de comprobación para tu dispositivo antes de elegir.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -140,7 +140,7 @@
             "@id": "https://geoiptv.store/es/#webpage",
             "url": "https://geoiptv.store/es/",
             "name": "Planes de Geo IPTV | Compara las opciones de GEO World IPTV",
-            "description": "Compara las duraciones de los planes de GEO World IPTV, los costes totales, los límites de conexiones y los requisitos del dispositivo antes de elegir.",
+            "description": "Compara planes GEO World IPTV con una conexión simultánea. Revisa el coste total y usa una lista de comprobación para tu dispositivo antes de elegir.",
             "isPartOf": {
               "@id": "https://geoiptv.store/#website"
             },
@@ -151,11 +151,11 @@
     },
     "fr": {
       "title": "Forfaits Geo IPTV | Comparez les options GEO World IPTV",
-      "description": "Comparez les forfaits GEO World IPTV de 1, 3, 6 ou 12 mois. Comprenez les coûts totaux, les limites de connexions et les vérifications de l’appareil avant de choisir votre installation Geo IPTV.",
+      "description": "Comparez les forfaits GEO World IPTV avec une connexion simultanée. Vérifiez le coût total et préparez votre installation sur le même appareil.",
       "ogTitle": "Forfaits Geo IPTV | Comparez les options GEO World IPTV",
-      "ogDescription": "Ne vous arrêtez pas au prix affiché. Comparez les durées des forfaits, vérifiez les limites de connexions et confirmez votre appareil et vos besoins de visionnage avant de choisir.",
+      "ogDescription": "Comparez les forfaits GEO World IPTV avec une connexion simultanée. Vérifiez le coût total et préparez votre installation sur le même appareil.",
       "twitterTitle": "Forfaits Geo IPTV | Comparez les options GEO World IPTV",
-      "twitterDescription": "Un guide pratique pour comparer les forfaits GEO World IPTV, du coût de toute la période aux questions à poser avant le paiement.",
+      "twitterDescription": "Comparez les forfaits GEO World IPTV avec une connexion simultanée. Vérifiez le coût total et préparez votre installation sur le même appareil.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -182,7 +182,7 @@
             "@id": "https://geoiptv.store/fr/#webpage",
             "url": "https://geoiptv.store/fr/",
             "name": "Forfaits Geo IPTV | Comparez les options GEO World IPTV",
-            "description": "Comparez les durées des forfaits GEO World IPTV, les coûts totaux, les limites de connexions et les exigences des appareils avant de choisir.",
+            "description": "Comparez les forfaits GEO World IPTV avec une connexion simultanée. Vérifiez le coût total et préparez votre installation sur le même appareil.",
             "isPartOf": {
               "@id": "https://geoiptv.store/#website"
             },
@@ -193,11 +193,11 @@
     },
     "it": {
       "title": "Piani Geo IPTV | Confronta le opzioni GEO World IPTV",
-      "description": "Confronta i piani GEO World IPTV da 1, 3, 6 o 12 mesi. Comprendi i costi totali, i limiti di connessione e i controlli del dispositivo prima di scegliere la tua configurazione Geo IPTV.",
+      "description": "Confronta i piani GEO World IPTV con una connessione simultanea. Valuta il costo totale e prepara il tuo dispositivo con una lista di controlli pratici.",
       "ogTitle": "Piani Geo IPTV | Confronta le opzioni GEO World IPTV",
-      "ogDescription": "Guarda oltre il prezzo in evidenza. Confronta le durate dei piani, verifica i limiti di connessione e conferma il dispositivo e le tue esigenze di visione prima di scegliere.",
+      "ogDescription": "Confronta i piani GEO World IPTV con una connessione simultanea. Valuta il costo totale e prepara il tuo dispositivo con una lista di controlli pratici.",
       "twitterTitle": "Piani Geo IPTV | Confronta le opzioni GEO World IPTV",
-      "twitterDescription": "Una guida pratica al confronto dei piani GEO World IPTV, dal costo dell’intero periodo alle domande da fare prima del checkout.",
+      "twitterDescription": "Confronta i piani GEO World IPTV con una connessione simultanea. Valuta il costo totale e prepara il tuo dispositivo con una lista di controlli pratici.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -224,7 +224,7 @@
             "@id": "https://geoiptv.store/it/#webpage",
             "url": "https://geoiptv.store/it/",
             "name": "Piani Geo IPTV | Confronta le opzioni GEO World IPTV",
-            "description": "Confronta le durate dei piani GEO World IPTV, i costi totali, i limiti di connessione e i requisiti dei dispositivi prima di scegliere.",
+            "description": "Confronta i piani GEO World IPTV con una connessione simultanea. Valuta il costo totale e prepara il tuo dispositivo con una lista di controlli pratici.",
             "isPartOf": {
               "@id": "https://geoiptv.store/#website"
             },
@@ -235,11 +235,11 @@
     },
     "nl": {
       "title": "Geo IPTV-abonnementen | Vergelijk GEO World IPTV-opties",
-      "description": "Vergelijk GEO World IPTV-abonnementen voor 1, 3, 6 of 12 maanden. Begrijp de totale kosten, verbindingslimieten en apparaatcontroles voordat je jouw Geo IPTV-opstelling kiest.",
+      "description": "Vergelijk GEO World IPTV-pakketten met één gelijktijdige verbinding. Bekijk de totale looptijdkosten en bereid jouw apparaat stap voor stap voor.",
       "ogTitle": "Geo IPTV-abonnementen | Vergelijk GEO World IPTV-opties",
-      "ogDescription": "Kijk verder dan de opvallende prijs. Vergelijk looptijden, controleer verbindingslimieten en bevestig je apparaat en kijkwensen voordat je kiest.",
+      "ogDescription": "Vergelijk GEO World IPTV-pakketten met één gelijktijdige verbinding. Bekijk de totale looptijdkosten en bereid jouw apparaat stap voor stap voor.",
       "twitterTitle": "Geo IPTV-abonnementen | Vergelijk GEO World IPTV-opties",
-      "twitterDescription": "Een praktische gids voor het vergelijken van GEO World IPTV-abonnementen, van de totale looptijdkosten tot de vragen die je vóór het afrekenen wilt stellen.",
+      "twitterDescription": "Vergelijk GEO World IPTV-pakketten met één gelijktijdige verbinding. Bekijk de totale looptijdkosten en bereid jouw apparaat stap voor stap voor.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -266,7 +266,7 @@
             "@id": "https://geoiptv.store/nl/#webpage",
             "url": "https://geoiptv.store/nl/",
             "name": "Geo IPTV-abonnementen | Vergelijk GEO World IPTV-opties",
-            "description": "Vergelijk de looptijden van GEO World IPTV-abonnementen, totale kosten, verbindingslimieten en apparaatvereisten voordat je kiest.",
+            "description": "Vergelijk GEO World IPTV-pakketten met één gelijktijdige verbinding. Bekijk de totale looptijdkosten en bereid jouw apparaat stap voor stap voor.",
             "isPartOf": {
               "@id": "https://geoiptv.store/#website"
             },
@@ -277,11 +277,11 @@
     },
     "pt": {
       "title": "Planos Geo IPTV | Compare as opções GEO World IPTV",
-      "description": "Compare os planos GEO World IPTV de 1, 3, 6 ou 12 meses. Compreenda os custos totais, os limites de ligações e as verificações do dispositivo antes de escolher a sua configuração Geo IPTV.",
+      "description": "Compare planos GEO World IPTV com uma ligação em simultâneo. Veja o custo total e prepare o seu dispositivo com uma lista de verificações práticas.",
       "ogTitle": "Planos Geo IPTV | Compare as opções GEO World IPTV",
-      "ogDescription": "Olhe para além do preço em destaque. Compare durações, verifique os limites de ligações e confirme o dispositivo e as suas necessidades de visualização antes de escolher.",
+      "ogDescription": "Compare planos GEO World IPTV com uma ligação em simultâneo. Veja o custo total e prepare o seu dispositivo com uma lista de verificações práticas.",
       "twitterTitle": "Planos Geo IPTV | Compare as opções GEO World IPTV",
-      "twitterDescription": "Um guia prático para comparar os planos GEO World IPTV, desde o custo de todo o período às perguntas que vale a pena fazer antes de pagar.",
+      "twitterDescription": "Compare planos GEO World IPTV com uma ligação em simultâneo. Veja o custo total e prepare o seu dispositivo com uma lista de verificações práticas.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -308,7 +308,7 @@
             "@id": "https://geoiptv.store/pt/#webpage",
             "url": "https://geoiptv.store/pt/",
             "name": "Planos Geo IPTV | Compare as opções GEO World IPTV",
-            "description": "Compare as durações dos planos GEO World IPTV, os custos totais, os limites de ligações e os requisitos dos dispositivos antes de escolher.",
+            "description": "Compare planos GEO World IPTV com uma ligação em simultâneo. Veja o custo total e prepare o seu dispositivo com uma lista de verificações práticas.",
             "isPartOf": {
               "@id": "https://geoiptv.store/#website"
             },
@@ -319,11 +319,11 @@
     },
     "ru": {
       "title": "Тарифы Geo IPTV | Сравнение вариантов GEO World IPTV",
-      "description": "Сравните тарифы GEO World IPTV на 1, 3, 6 или 12 месяцев. Разберитесь в полной стоимости, лимитах подключений и проверках устройств перед выбором своей конфигурации Geo IPTV.",
+      "description": "Сравните тарифы GEO World IPTV с одним одновременным подключением. Проверьте полную стоимость и подготовьте устройство по практическому списку.",
       "ogTitle": "Тарифы Geo IPTV | Сравнение вариантов GEO World IPTV",
-      "ogDescription": "Смотрите не только на указанную цену. Сравните сроки тарифов, проверьте лимиты подключений, своё устройство и потребности просмотра перед выбором.",
+      "ogDescription": "Сравните тарифы GEO World IPTV с одним одновременным подключением. Проверьте полную стоимость и подготовьте устройство по практическому списку.",
       "twitterTitle": "Тарифы Geo IPTV | Сравнение вариантов GEO World IPTV",
-      "twitterDescription": "Практическое руководство по сравнению тарифов GEO World IPTV: от стоимости за весь срок до вопросов, которые стоит задать перед оплатой.",
+      "twitterDescription": "Сравните тарифы GEO World IPTV с одним одновременным подключением. Проверьте полную стоимость и подготовьте устройство по практическому списку.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -350,7 +350,7 @@
             "@id": "https://geoiptv.store/ru/#webpage",
             "url": "https://geoiptv.store/ru/",
             "name": "Тарифы Geo IPTV | Сравнение вариантов GEO World IPTV",
-            "description": "Сравните сроки тарифов GEO World IPTV, полную стоимость, лимиты подключений и требования к устройствам перед выбором.",
+            "description": "Сравните тарифы GEO World IPTV с одним одновременным подключением. Проверьте полную стоимость и подготовьте устройство по практическому списку.",
             "isPartOf": {
               "@id": "https://geoiptv.store/#website"
             },
@@ -361,11 +361,11 @@
     },
     "ur": {
       "title": "Geo IPTV پلانز | GEO World IPTV کے اختیارات کا موازنہ",
-      "description": "GEO World IPTV کے 1، 3، 6 یا 12 ماہ کے پلانز کا موازنہ کریں۔ اپنا Geo IPTV سیٹ اپ منتخب کرنے سے پہلے مکمل لاگت، کنکشنز کی حد اور آلے کی ضروری جانچ سمجھیں۔",
+      "description": "GEO World IPTV کے ایک وقت میں ایک کنکشن والے پلان کا موازنہ کریں۔ پوری مدت کی قیمت دیکھیں اور ایک ہی آلے پر جانچ کی فہرست سے اپنا سیٹ اپ تیار کریں۔",
       "ogTitle": "Geo IPTV پلانز | GEO World IPTV کے اختیارات کا موازنہ",
-      "ogDescription": "صرف نمایاں قیمت نہ دیکھیں۔ پلانز کی مدت کا موازنہ کریں، کنکشنز کی حد چیک کریں اور انتخاب سے پہلے اپنے آلے اور دیکھنے کی ضروریات کی تصدیق کروائیں۔",
+      "ogDescription": "GEO World IPTV کے ایک وقت میں ایک کنکشن والے پلان کا موازنہ کریں۔ پوری مدت کی قیمت دیکھیں اور ایک ہی آلے پر جانچ کی فہرست سے اپنا سیٹ اپ تیار کریں۔",
       "twitterTitle": "Geo IPTV پلانز | GEO World IPTV کے اختیارات کا موازنہ",
-      "twitterDescription": "GEO World IPTV پلانز کے موازنے کی عملی رہنمائی، پوری مدت کی لاگت سے لے کر ادائیگی سے پہلے پوچھنے والے اہم سوالات تک۔",
+      "twitterDescription": "GEO World IPTV کے ایک وقت میں ایک کنکشن والے پلان کا موازنہ کریں۔ پوری مدت کی قیمت دیکھیں اور ایک ہی آلے پر جانچ کی فہرست سے اپنا سیٹ اپ تیار کریں۔",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -392,7 +392,7 @@
             "@id": "https://geoiptv.store/ur/#webpage",
             "url": "https://geoiptv.store/ur/",
             "name": "Geo IPTV پلانز | GEO World IPTV کے اختیارات کا موازنہ",
-            "description": "انتخاب سے پہلے GEO World IPTV پلانز کی مدت، مکمل لاگت، کنکشنز کی حد اور آلے کی ضروریات کا موازنہ کریں۔",
+            "description": "GEO World IPTV کے ایک وقت میں ایک کنکشن والے پلان کا موازنہ کریں۔ پوری مدت کی قیمت دیکھیں اور ایک ہی آلے پر جانچ کی فہرست سے اپنا سیٹ اپ تیار کریں۔",
             "isPartOf": {
               "@id": "https://geoiptv.store/#website"
             },
@@ -403,11 +403,11 @@
     },
     "ar": {
       "title": "خطط Geo IPTV | قارن خيارات GEO World IPTV",
-      "description": "قارن خطط GEO World IPTV لشهر أو 3 أو 6 أو 12 شهرًا. افهم التكاليف الإجمالية وحدود الاتصالات وفحوص الجهاز قبل اختيار إعداد Geo IPTV المناسب لك.",
+      "description": "قارن خطط GEO World IPTV باتصال واحد متزامن. راجع تكلفة المدة كاملة واستخدم قائمة فحص على الجهاز نفسه لتجهيز إعدادك قبل الاختيار.",
       "ogTitle": "خطط Geo IPTV | قارن خيارات GEO World IPTV",
-      "ogDescription": "انظر إلى ما وراء السعر البارز. قارن مدد الخطط وتحقّق من حدود الاتصالات وأكّد جهازك واحتياجات المشاهدة قبل الاختيار.",
+      "ogDescription": "قارن خطط GEO World IPTV باتصال واحد متزامن. راجع تكلفة المدة كاملة واستخدم قائمة فحص على الجهاز نفسه لتجهيز إعدادك قبل الاختيار.",
       "twitterTitle": "خطط Geo IPTV | قارن خيارات GEO World IPTV",
-      "twitterDescription": "دليل عملي لمقارنة خطط GEO World IPTV، من تكلفة المدة كاملة إلى الأسئلة التي يجدر طرحها قبل الدفع.",
+      "twitterDescription": "قارن خطط GEO World IPTV باتصال واحد متزامن. راجع تكلفة المدة كاملة واستخدم قائمة فحص على الجهاز نفسه لتجهيز إعدادك قبل الاختيار.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -434,7 +434,7 @@
             "@id": "https://geoiptv.store/ar/#webpage",
             "url": "https://geoiptv.store/ar/",
             "name": "خطط Geo IPTV | قارن خيارات GEO World IPTV",
-            "description": "قارن مدد خطط GEO World IPTV والتكاليف الإجمالية وحدود الاتصالات ومتطلبات الأجهزة قبل الاختيار.",
+            "description": "قارن خطط GEO World IPTV باتصال واحد متزامن. راجع تكلفة المدة كاملة واستخدم قائمة فحص على الجهاز نفسه لتجهيز إعدادك قبل الاختيار.",
             "isPartOf": {
               "@id": "https://geoiptv.store/#website"
             },
@@ -445,11 +445,11 @@
     },
     "hi": {
       "title": "Geo IPTV प्लान | GEO World IPTV विकल्पों की तुलना करें",
-      "description": "GEO World IPTV के 1, 3, 6 या 12 महीने के प्लान की तुलना करें। अपना Geo IPTV सेटअप चुनने से पहले कुल लागत, कनेक्शन सीमा और डिवाइस की जाँच समझें।",
+      "description": "GEO World IPTV के एक समय पर एक कनेक्शन वाले प्लान की तुलना करें। पूरी अवधि की कीमत देखें और एक ही डिवाइस की चेकलिस्ट से अपना सेटअप तैयार करें।",
       "ogTitle": "Geo IPTV प्लान | GEO World IPTV विकल्पों की तुलना करें",
-      "ogDescription": "सिर्फ दिखाई गई कीमत से आगे देखें। प्लान की अवधि की तुलना करें, कनेक्शन सीमा जाँचें और चुनने से पहले अपने डिवाइस व देखने की ज़रूरतें पक्की करें।",
+      "ogDescription": "GEO World IPTV के एक समय पर एक कनेक्शन वाले प्लान की तुलना करें। पूरी अवधि की कीमत देखें और एक ही डिवाइस की चेकलिस्ट से अपना सेटअप तैयार करें।",
       "twitterTitle": "Geo IPTV प्लान | GEO World IPTV विकल्पों की तुलना करें",
-      "twitterDescription": "GEO World IPTV प्लान की तुलना की व्यावहारिक गाइड—पूरी अवधि की लागत से लेकर चेकआउट से पहले पूछने वाले सवालों तक।",
+      "twitterDescription": "GEO World IPTV के एक समय पर एक कनेक्शन वाले प्लान की तुलना करें। पूरी अवधि की कीमत देखें और एक ही डिवाइस की चेकलिस्ट से अपना सेटअप तैयार करें।",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -476,7 +476,7 @@
             "@id": "https://geoiptv.store/hi/#webpage",
             "url": "https://geoiptv.store/hi/",
             "name": "Geo IPTV प्लान | GEO World IPTV विकल्पों की तुलना करें",
-            "description": "चुनने से पहले GEO World IPTV प्लान की अवधि, कुल लागत, कनेक्शन सीमा और डिवाइस की ज़रूरतों की तुलना करें।",
+            "description": "GEO World IPTV के एक समय पर एक कनेक्शन वाले प्लान की तुलना करें। पूरी अवधि की कीमत देखें और एक ही डिवाइस की चेकलिस्ट से अपना सेटअप तैयार करें।",
             "isPartOf": {
               "@id": "https://geoiptv.store/#website"
             },
