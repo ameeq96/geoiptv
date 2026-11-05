@@ -23,6 +23,7 @@ export default function ContentPage({ site, locale, page, pages = [], labels = {
   const [playlistGuide, playbackGuide, supportGuide] = articles;
   const relatedSlugs = page.kind === 'article' ? ['iptv-applications', ...articles.map(item => item.slug)] : {
     setup: ['iptv-applications', playbackGuide?.slug, supportGuide?.slug],
+    'reseller-panel': ['faqs', 'iptv-applications', supportGuide?.slug],
     'iptv-applications': [playbackGuide?.slug, playlistGuide?.slug, 'faqs'],
     faqs: ['iptv-applications', playbackGuide?.slug, supportGuide?.slug],
   }[page.slug] || [];
@@ -39,7 +40,7 @@ export default function ContentPage({ site, locale, page, pages = [], labels = {
           {policy && <aside className="policy-notice"><p>{labels.disclaimer}</p><a href={centralUrl('/' + page.slug, site.source, origin)}>{labels.governingPolicy} — opplexiptv.com <span aria-hidden="true">↗</span></a></aside>}
           {page.sections.map((section, index) => <section className="copy-section" key={section.heading + index} aria-labelledby={'copy-heading-' + index}><span className="section-index" aria-hidden="true">{String(index + 1).padStart(2, '0')}</span><div><h2 id={'copy-heading-' + index}>{section.heading}</h2><p>{section.body}</p>{section.links?.length > 0 && <ul>{section.links.map(link => <li key={link.url}><a className="text-link" href={link.url} rel="noopener noreferrer">{link.label}<span aria-hidden="true">↗</span></a></li>)}</ul>}</div></section>)}
           {relatedPages.length > 0 && <nav className="copy-section" aria-labelledby="related-guides-heading"><span className="section-index" aria-hidden="true">↗</span><div><h2 id="related-guides-heading">{nav.blogs || labels.guide}</h2><ul>{relatedPages.map(related => <li key={related.slug}><Link className="text-link" href={pathFor(locale, related.slug)}>{related.title}<span aria-hidden="true">→</span></Link></li>)}</ul></div></nav>}
-          {page.kind === 'contact' && <button type="button" className="button button-primary" onClick={event => openContact('whatsapp', event.currentTarget)}>{labels.contact}<span aria-hidden="true">↗</span></button>}
+          {(page.kind === 'contact' || page.slug === 'reseller-panel') && <button type="button" className="button button-primary" onClick={event => openContact('whatsapp', event.currentTarget)}>{labels.contact}<span aria-hidden="true">↗</span></button>}
           {page.kind === 'activation' && <a className="button button-primary" href={centralUrl('/' + (page.slug === 'activate-info' ? 'activate-info' : 'activate'), site.source, origin)}>{nav[page.slug] || page.title}<span aria-hidden="true">↗</span></a>}
           {page.kind === 'article' && <Link className="text-link" href={pathFor(locale, 'blogs')}><span aria-hidden="true">←</span>{labels.backToGuides}</Link>}
           {['setup', 'faqs'].includes(page.slug) && <HelpAssistant key={locale + ':' + page.slug} site={site} locale={locale} pages={pages} />}
